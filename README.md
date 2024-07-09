@@ -1,3 +1,7 @@
+## Reverse Engineering
+- [ ] [Code Forces](https://codeforces.com/)
+- [ ] [Root me](https://www.root-me.org/?lang=en)
+
 ## Python
 
 ##### 100% FREE
